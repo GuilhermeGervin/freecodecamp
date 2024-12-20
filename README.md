@@ -1,3 +1,3 @@
 # freecodecamp
  
-This is the first certification excercise in the FreeCodeCamp.
+Here's the course exercises of the Responsive Web Design at freeCodeCamp.
